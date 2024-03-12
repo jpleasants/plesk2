@@ -1,7 +1,7 @@
 url: docnc.org
-status: up
-code: 200
-responseTime: 617
-lastUpdated: 2024-03-10T23:15:26.867Z
+status: down
+code: 500
+responseTime: 755
+lastUpdated: 2024-03-12T04:48:56.864Z
 startTime: 2023-08-02T05:45:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
