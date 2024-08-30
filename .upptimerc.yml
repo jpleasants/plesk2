@@ -6,63 +6,208 @@ delay: 2000 # 2 seconds
 sites:
   - name: SAM IT Solutions
     url: https://samitsolutions.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: A Slice Of The Cloud
     url: asliceofthecloud.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Basketball My World
     url: basketballmyworld.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Bikaner Electrical
     url: bikanerelectrical.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Biryani Maxx
     url: biryanimaxx.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Carolina Retina Eyecare
     url: carolinaretinaeyecare.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Cary Endoscopy Center
     url: caryendoscopycenter.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Cary Internal Medicine
     url: caryinternalmedicine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Center For Digestive Diseases
     url: centerfordigestivediseases.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Cholanad
     url: cholanad.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Civentichem
     url: civentichem.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Clearpoint Health
     url: clearpointhealth.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Cloven Cardamom
     url: clovencardamom.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Directed VR
     url: directed-vr.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: DOC NC
     url: docnc.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Guru Indian Cuisine
     url: guruindiancuisine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: HCIL Code
     url: hcilcode.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: IMCS
-    url: imcs.sx 
+    url: imcs.sx
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Lay Sciences
     url: laysciences.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Monsoon Indian Cuisine
     url: monsoonindiancuisine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Patagonia Health
     url: patagoniahealth.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Patagonia Health Dev
     url: dev.patagoniahealth.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: PRDBI
     url: prdbi.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Rahul Priyadarshi
     url: rahul-priyadarshi.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Sam Analytic Solutions
     url: samanalyticsolutions.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Tandoor Chapel Hill
     url: tandoorchapelhill.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Temoa Cloud
     url: temoacloud.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Zayka Raleigh
     url: zaykaraleigh.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
