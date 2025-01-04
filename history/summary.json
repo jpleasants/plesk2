@@ -221,7 +221,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.91%",
+    "uptimeYear": "96.92%",
     "time": 914,
     "timeDay": 118,
     "timeWeek": 138,
@@ -240,8 +240,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -351,19 +350,20 @@
     "url": "civentichem.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "civentichem",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.04%",
-    "time": 2004,
-    "timeDay": 745,
-    "timeWeek": 1456,
-    "timeMonth": 1553,
-    "timeYear": 1603,
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.03%",
+    "time": 2274,
+    "timeDay": 811,
+    "timeWeek": 1453,
+    "timeMonth": 1551,
+    "timeYear": 1602,
     "dailyMinutesDown": {
-      "2025-01-03": 31,
+      "2025-01-04": 34,
+      "2025-01-03": 37,
       "2025-01-01": 26,
       "2024-12-31": 39,
       "2024-12-30": 93,
@@ -400,7 +400,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.18%",
+    "uptimeYear": "98.19%",
     "time": 1770,
     "timeDay": 184,
     "timeWeek": 270,
@@ -418,8 +418,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -452,11 +451,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "directed-vr",
     "status": "up",
-    "uptime": "70.09%",
+    "uptime": "70.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.78%",
     "time": 969,
     "timeDay": 132,
     "timeWeek": 169,
@@ -475,8 +474,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -489,7 +487,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.51%",
     "time": 1098,
     "timeDay": 246,
     "timeWeek": 257,
@@ -507,8 +505,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -521,7 +518,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 862,
     "timeDay": 224,
     "timeWeek": 202,
@@ -535,8 +532,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -600,11 +596,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lay-sciences",
     "status": "up",
-    "uptime": "48.85%",
+    "uptime": "48.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "95.20%",
+    "uptimeYear": "95.21%",
     "time": 690,
     "timeDay": 851,
     "timeWeek": 1365,
@@ -630,8 +626,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
