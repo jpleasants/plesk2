@@ -208,7 +208,36 @@ sites:
       - 201
       - 301
       - 403
-
+  - name: CMC Buildinginc
+    url: cmcbuildinginc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: Jalwa Indian Bistro
+    url: jalwaindianbistro.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: Oceanbay Indian cuisine
+    url: oceanbayindiancuisine.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: Prodigy biotech
+    url: Prodigybiotech.Com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+     
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
