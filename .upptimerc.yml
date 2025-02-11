@@ -89,13 +89,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: Clearpoint Health
-    url: clearpointhealth.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: Cloven Cardamom
     url: clovencardamom.com
     expectedStatusCodes:
