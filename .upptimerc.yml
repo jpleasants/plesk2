@@ -131,13 +131,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: Monsoon Indian Cuisine
-    url: monsoonindiancuisine.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: laysciences
     url: https://laysciences.com
     expectedStatusCodes:
