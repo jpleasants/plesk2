@@ -96,7 +96,7 @@ sites:
       - 201
       - 301
       - 403
-  - name:prdbi
+  - name: prdbi
     url: https://prdbi.com
     expectedStatusCodes:
       - 200
