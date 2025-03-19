@@ -140,8 +140,8 @@
     "status": "up",
     "uptime": "84.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "27.04%",
+    "uptimeWeek": "83.02%",
+    "uptimeMonth": "27.06%",
     "uptimeYear": "89.31%",
     "time": 638,
     "timeDay": 1607,
@@ -229,17 +229,17 @@
     "slug": "center-for-digestive-diseases",
     "status": "down",
     "uptime": "95.71%",
-    "uptimeDay": "83.22%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "82.88%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.21%",
     "time": 953,
     "timeDay": 1685,
     "timeWeek": 1626,
     "timeMonth": 1285,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-03-19": 180,
+      "2025-03-19": 185,
       "2025-03-18": 132,
       "2025-03-17": 15,
       "2025-03-15": 28,
@@ -438,18 +438,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasteoftandoor.com.ico",
     "slug": "tasteoftandoor",
     "status": "down",
-    "uptime": "80.35%",
-    "uptimeDay": "80.35%",
-    "uptimeWeek": "80.35%",
-    "uptimeMonth": "80.35%",
-    "uptimeYear": "80.35%",
+    "uptime": "79.91%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "79.91%",
+    "uptimeMonth": "79.91%",
+    "uptimeYear": "79.91%",
     "time": 5252,
     "timeDay": 5252,
     "timeWeek": 5252,
     "timeMonth": 5252,
     "timeYear": 5252,
     "dailyMinutesDown": {
-      "2025-03-19": 176
+      "2025-03-19": 181
     }
   },
   {
@@ -458,18 +458,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/laysciences.com.ico",
     "slug": "laysciences",
     "status": "down",
-    "uptime": "80.60%",
-    "uptimeDay": "80.60%",
-    "uptimeWeek": "80.60%",
-    "uptimeMonth": "80.60%",
-    "uptimeYear": "80.60%",
+    "uptime": "80.15%",
+    "uptimeDay": "80.15%",
+    "uptimeWeek": "80.15%",
+    "uptimeMonth": "80.15%",
+    "uptimeYear": "80.15%",
     "time": 1402,
     "timeDay": 1402,
     "timeWeek": 1402,
     "timeMonth": 1402,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-03-19": 174
+      "2025-03-19": 180
     }
   },
   {
@@ -563,18 +563,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaykaraleigh.com.ico",
     "slug": "zaykaraleigh",
     "status": "down",
-    "uptime": "80.94%",
-    "uptimeDay": "80.94%",
-    "uptimeWeek": "80.94%",
-    "uptimeMonth": "80.94%",
-    "uptimeYear": "80.94%",
+    "uptime": "80.45%",
+    "uptimeDay": "80.45%",
+    "uptimeWeek": "80.45%",
+    "uptimeMonth": "80.45%",
+    "uptimeYear": "80.45%",
     "time": 962,
     "timeDay": 962,
     "timeWeek": 962,
     "timeMonth": 962,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2025-03-19": 170
+      "2025-03-19": 175
     }
   },
   {
