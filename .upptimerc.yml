@@ -13,7 +13,7 @@ sites:
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -43,7 +43,7 @@ sites:
       - 201
   - name: Cary Endoscopy Center
     url: https://caryendoscopycenter.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
@@ -151,7 +151,7 @@ sites:
       - 201
   - name: oceanbayindiancuisine
     url: https://oceanbayindiancuisine.com
-    maxResponseTime: 10000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
