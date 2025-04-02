@@ -13,7 +13,7 @@ sites:
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -25,7 +25,7 @@ sites:
       - 201
   - name: samanalyticsolutions
     url: https://samanalyticsolutions.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -49,7 +49,7 @@ sites:
       - 201
   - name: Cary Internal Medicine
     url: https://caryinternalmedicine.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -61,7 +61,7 @@ sites:
       - 201
   - name: directed-vr
     url: https://directed-vr.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
