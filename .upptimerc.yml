@@ -6,7 +6,7 @@ delay: 2000 # 2 seconds
 sites:
   - name: guruindiancuisine
     url: https://guruindiancuisine.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -19,7 +19,7 @@ sites:
       - 201
   - name: imcs
     url: https://imcs.sx
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -37,13 +37,13 @@ sites:
       - 201
   - name: bikanerelectrical
     url: https://bikanerelectrical.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: Cary Endoscopy Center
     url: https://caryendoscopycenter.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -79,31 +79,31 @@ sites:
       - 201
   - name: jalwaindianbistro
     url: https://jalwaindianbistro.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: prdbi
     url: https://prdbi.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: prodigybiotech
     url: https://prodigybiotech.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: temoacloud
     url: https://temoacloud.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: rahul-priyadarshi
     url: https://rahul-priyadarshi.net
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -121,13 +121,13 @@ sites:
       - 201
   - name: Patagonia Health
     url: https://patagoniahealth.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: thalirtp
     url: https://thalirtp.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -145,13 +145,13 @@ sites:
       - 201
   - name: zaykaraleigh
     url: https://zaykaraleigh.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: oceanbayindiancuisine
     url: https://oceanbayindiancuisine.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
