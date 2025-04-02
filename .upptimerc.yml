@@ -133,7 +133,7 @@ sites:
       - 201
   - name: veearcapital
     url: https://veearcapital.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
