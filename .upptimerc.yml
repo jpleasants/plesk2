@@ -31,7 +31,7 @@ sites:
       - 201
   - name: asliceofthecloud
     url: https://asliceofthecloud.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -55,7 +55,7 @@ sites:
       - 201
   - name: Center For Digestive Diseases
     url: centerfordigestivediseases.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -67,13 +67,13 @@ sites:
       - 201
   - name: docnc
     url: https://docnc.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: hcilcode
     url: https://hcilcode.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -109,13 +109,13 @@ sites:
       - 201
   - name: tasteoftandoor
     url: https://tasteoftandoor.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
   - name: laysciences
     url: https://laysciences.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -139,7 +139,7 @@ sites:
       - 201
   - name: kingstandoorandbar
     url: https://kingstandoorandbar.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
