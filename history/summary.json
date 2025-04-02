@@ -24,9 +24,9 @@
     "slug": "plesk-2",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "98.88%",
     "time": 560,
     "timeDay": 1256,
@@ -34,7 +34,6 @@
     "timeMonth": 711,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-04-02": 7,
       "2025-03-06": 45,
       "2024-08-30": 1030,
       "2024-08-29": 1440,
@@ -122,8 +121,8 @@
     "slug": "bikanerelectrical",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 238,
@@ -132,7 +131,7 @@
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-04-02": 19
+      "2025-04-02": 20
     }
   },
   {
@@ -422,9 +421,9 @@
     "slug": "rahul-priyadarshi",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.65%",
     "time": 687,
     "timeDay": 146,
@@ -432,7 +431,6 @@
     "timeMonth": 190,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2025-04-02": 7,
       "2025-03-15": 25,
       "2025-03-13": 70,
       "2025-02-07": 72,
@@ -571,8 +569,8 @@
     "slug": "kingstandoorandbar",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 667,
@@ -581,7 +579,7 @@
     "timeMonth": 667,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-04-02": 17
+      "2025-04-02": 18
     }
   },
   {
