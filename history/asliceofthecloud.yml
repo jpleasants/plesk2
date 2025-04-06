@@ -1,7 +1,7 @@
 url: https://asliceofthecloud.com
-status: up
+status: degraded
 code: 200
-responseTime: 387
-lastUpdated: 2025-04-06T19:46:31.670Z
+responseTime: 29242
+lastUpdated: 2025-04-06T20:12:08.421Z
 startTime: 2025-03-18T16:50:54.599Z
 generator: Upptime <https://github.com/upptime/upptime>
