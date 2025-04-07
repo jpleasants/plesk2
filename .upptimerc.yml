@@ -10,6 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
@@ -17,144 +18,168 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: imcs
     url: https://imcs.sx
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: samanalyticsolutions
     url: https://samanalyticsolutions.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: asliceofthecloud
     url: https://asliceofthecloud.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: bikanerelectrical
     url: https://bikanerelectrical.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Cary Endoscopy Center
     url: https://caryendoscopycenter.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Cary Internal Medicine
     url: https://caryinternalmedicine.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Center For Digestive Diseases
     url: centerfordigestivediseases.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: directed-vr
     url: https://directed-vr.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: docnc
     url: https://docnc.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: hcilcode
     url: https://hcilcode.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: jalwaindianbistro
     url: https://jalwaindianbistro.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: prdbi
     url: https://prdbi.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: prodigybiotech
     url: https://prodigybiotech.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: temoacloud
     url: https://temoacloud.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: rahul-priyadarshi
     url: https://rahul-priyadarshi.net
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: tasteoftandoor
     url: https://tasteoftandoor.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: laysciences
     url: https://laysciences.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: Patagonia Health
     url: https://patagoniahealth.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: thalirtp
     url: https://thalirtp.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: veearcapital
     url: https://veearcapital.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: kingstandoorandbar
     url: https://kingstandoorandbar.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: zaykaraleigh
     url: https://zaykaraleigh.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
   - name: oceanbayindiancuisine
     url: https://oceanbayindiancuisine.com
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
+      - 403
             
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
