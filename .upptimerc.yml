@@ -10,7 +10,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
@@ -18,14 +17,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: imcs
     url: https://imcs.sx
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: samanalyticsolutions
     url: https://samanalyticsolutions.com
     maxResponseTime: 10000
