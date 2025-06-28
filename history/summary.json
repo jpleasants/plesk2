@@ -39,7 +39,7 @@
     "uptimeYear": "97.90%",
     "time": 918,
     "timeDay": 3263,
-    "timeWeek": 3179,
+    "timeWeek": 3224,
     "timeMonth": 3162,
     "timeYear": 934,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caryendoscopycenter.com.ico",
     "slug": "cary-endoscopy-center",
     "status": "up",
-    "uptime": "86.35%",
+    "uptime": "86.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
@@ -274,8 +274,7 @@
       "2024-07-02": 632,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 209
+      "2024-06-29": 1440
     }
   },
   {
@@ -284,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caryinternalmedicine.com.ico",
     "slug": "cary-internal-medicine",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.32%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.50%",
@@ -322,7 +321,7 @@
     "slug": "center-for-digestive-diseases",
     "status": "up",
     "uptime": "96.06%",
-    "uptimeDay": "9.96%",
+    "uptimeDay": "16.01%",
     "uptimeWeek": "79.97%",
     "uptimeMonth": "95.22%",
     "uptimeYear": "98.75%",
@@ -354,8 +353,7 @@
       "2024-08-24": 1307,
       "2024-08-23": 221,
       "2024-07-12": 205,
-      "2024-06-29": 1080,
-      "2024-06-28": 326
+      "2024-06-29": 1080
     }
   },
   {
@@ -365,7 +363,7 @@
     "slug": "directed-vr",
     "status": "up",
     "uptime": "77.28%",
-    "uptimeDay": "31.21%",
+    "uptimeDay": "37.26%",
     "uptimeWeek": "83.23%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "97.92%",
@@ -395,8 +393,7 @@
       "2024-07-02": 1351,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 209
+      "2024-06-29": 1440
     }
   },
   {
@@ -405,11 +402,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docnc.org.ico",
     "slug": "docnc",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 852,
     "timeDay": 737,
     "timeWeek": 1181,
@@ -492,9 +489,9 @@
     "slug": "prdbi",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "98.29%",
     "time": 517,
     "timeDay": 1203,
@@ -502,7 +499,6 @@
     "timeMonth": 697,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-06-27": 15,
       "2025-06-17": 46,
       "2025-06-16": 19,
       "2025-05-24": 24,
