@@ -31,18 +31,19 @@
     "url": "https://plesk2.samitsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk2.samitsolutions.com.ico",
     "slug": "plesk-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "98.96%",
     "time": 1113,
     "timeDay": 8144,
     "timeWeek": 3445,
     "timeMonth": 3027,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2025-07-11": 3,
       "2025-07-10": 122,
       "2025-07-09": 178,
       "2025-07-08": 61,
@@ -72,7 +73,7 @@
       "2025-04-29": 75,
       "2025-04-07": 788,
       "2025-04-06": 783,
-      "2025-04-05": 799
+      "2025-04-05": 771
     }
   },
   {
