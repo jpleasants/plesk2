@@ -11,8 +11,8 @@ sites:
       - 200
       - 201
       - 403
-  - name: Plesk 2
-    url: https://plesk2.samitsolutions.com
+  - name: Plesk 12
+    url: https://plesk12.samitsolutions.com
     port: 8443
     maxResponseTime: 15000
     expectedStatusCodes:
@@ -185,7 +185,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /plesk2
+  baseUrl: /plesk12
   logoUrl: https://samitpublic.blob.core.windows.net/download/sam-it-dots(1).png
   name: SAM IT Solutions
   theme: night
