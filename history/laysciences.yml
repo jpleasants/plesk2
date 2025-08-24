@@ -1,7 +1,7 @@
 url: https://laysciences.com
-status: down
+status: degraded
 code: 502
-responseTime: 267
-lastUpdated: 2025-08-23T23:19:43.679Z
+responseTime: 23354
+lastUpdated: 2025-08-24T12:56:02.388Z
 startTime: 2025-03-18T16:53:11.911Z
 generator: Upptime <https://github.com/upptime/upptime>
